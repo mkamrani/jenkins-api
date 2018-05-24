@@ -1,0 +1,19 @@
+FROM microsoft/aspnetcore:2.0 AS base
+WORKDIR /app
+EXPOSE 80
+
+FROM microsoft/aspnetcore-build:2.0 AS build
+WORKDIR /src
+COPY CoreApp.Api/CoreApp.Api.csproj CoreApp.Api/
+RUN dotnet restore CoreApp.Api/CoreApp.Api.csproj
+COPY . .
+WORKDIR /src/CoreApp.Api
+RUN dotnet build CoreApp.Api.csproj -c Release -o /app
+
+FROM build AS publish
+RUN dotnet publish CoreApp.Api.csproj -c Release -o /app
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app .
+ENTRYPOINT ["dotnet", "CoreApp.Api.dll"]

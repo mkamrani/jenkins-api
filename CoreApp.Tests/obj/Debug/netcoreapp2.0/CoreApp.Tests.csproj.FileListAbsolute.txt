@@ -1,0 +1,14 @@
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.deps.json
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.runtimeconfig.json
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.runtimeconfig.dev.json
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.dll
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\bin\Debug\netcoreapp2.0\CoreApp.Tests.pdb
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.csprojAssemblyReference.cache
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.AssemblyInfoInputs.cache
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.AssemblyInfo.cs
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.dll
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Tests\obj\Debug\netcoreapp2.0\CoreApp.Tests.pdb

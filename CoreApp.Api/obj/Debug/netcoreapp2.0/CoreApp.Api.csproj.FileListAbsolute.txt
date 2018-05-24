@@ -1,0 +1,11 @@
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\bin\Debug\netcoreapp2.0\CoreApp.Api.deps.json
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\bin\Debug\netcoreapp2.0\CoreApp.Api.runtimeconfig.json
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\bin\Debug\netcoreapp2.0\CoreApp.Api.runtimeconfig.dev.json
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\bin\Debug\netcoreapp2.0\CoreApp.Api.dll
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\bin\Debug\netcoreapp2.0\CoreApp.Api.pdb
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\obj\Debug\netcoreapp2.0\CoreApp.Api.csprojAssemblyReference.cache
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\obj\Debug\netcoreapp2.0\CoreApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\obj\Debug\netcoreapp2.0\CoreApp.Api.AssemblyInfoInputs.cache
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\obj\Debug\netcoreapp2.0\CoreApp.Api.AssemblyInfo.cs
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\obj\Debug\netcoreapp2.0\CoreApp.Api.dll
+C:\Users\Mohsen\Desktop\tst\CoreApp\CoreApp.Api\obj\Debug\netcoreapp2.0\CoreApp.Api.pdb
